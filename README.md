@@ -13,7 +13,7 @@ CipherCrypt is a text encryption and decryption application built using Java. It
 
 - Bit Manipulation: Employs XOR operations for secure data transformations.
 
-  # Usage
+# Usage
   1. Run the application.
   
   2. Input the text you want to encrypt.
