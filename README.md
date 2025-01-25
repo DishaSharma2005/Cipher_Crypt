@@ -24,6 +24,7 @@ CipherCrypt is a text encryption and decryption application built using Java. It
       - Provide the correct key.
       - There are only 3 attempts to decrypt the file.
       - If the correct key is not provided within these attempts, the decryption will fail, and the application will lock further attempts.
+      - User can choose to re-enter key on choosing yes.
 
 # Technologies Used
 
@@ -39,7 +40,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For questions or feedback, please contact:
 
-Your Name: Disha Sharma
+- Creator: Disha Sharma
 
 Linkedin: www.linkedin.com/in/disha-sharma-25072005d
 
